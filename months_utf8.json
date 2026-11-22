@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Manualidades con material reciclado",
+    "tagline": "Crear tambi├®n es divertido",
+    "description": "Transforma rollos de cart├│n, botellas y cajas en juguetes, t├¡teres y adornos mientras practica la motricidad fina.",
+    "range": "Actividades 1 a 30",
+    "examples": [
+      "Portal├ípices de rollo de cart├│n",
+      "T├¡tere de calcet├¡n",
+      "Cohete de rollo de papel"
+    ],
+    "image": "/__l5e/assets-v1/927d2469-6ee9-4a5d-abde-723de506004b/mes-01-tematica.jpg",
+    "dot": "bg-leaf"
+  },
+  {
+    "name": "Juegos de movimiento en casa",
+    "tagline": "Moverse, jugar y liberar energ├¡a",
+    "description": "Circuitos, carreras y bailes para desarrollar coordinaci├│n, equilibrio y control corporal sin salir de casa.",
+    "range": "Actividades 31 a 60",
+    "examples": [
+      "Carrera de obst├ículos con cojines",
+      "Twister casero",
+      "Baile de las estatuas"
+    ],
+    "image": "/__l5e/assets-v1/c8caad48-39a6-46a6-9078-abb0060edb84/mes-02-tematica.jpg",
+    "dot": "bg-tangerine"
+  },
+  {
+    "name": "Experimentos caseros de ciencia",
+    "tagline": "Preguntar, descubrir y aprender",
+    "description": "Experimentos sencillos que despiertan la curiosidad, la observaci├│n y el pensamiento l├│gico.",
+    "range": "Actividades 61 a 90",
+    "examples": [
+      "Arco├¡ris en un vaso",
+      "Volc├ín de bicarbonato",
+      "L├ímpara de lava casera"
+    ],
+    "image": "/__l5e/assets-v1/7090534f-b09e-461e-a0db-2c15d046b878/mes-03-tematica.jpg",
+    "dot": "bg-teal"
+  },
+  {
+    "name": "Expresi├│n art├¡stica y creatividad",
+    "tagline": "Expresarse sin miedo",
+    "description": "Pintar, dibujar y experimentar con colores para fortalecer la imaginaci├│n, la concentraci├│n y la autoestima.",
+    "range": "Actividades 91 a 120",
+    "examples": [
+      "Pintura con hielo de colores",
+      "Autorretrato con crayones",
+      "C├│mic de tres vi├▒etas"
+    ],
+    "image": "/__l5e/assets-v1/a0de221c-c204-44ff-8941-1349b4e96607/mes-04-tematica.jpg",
+    "dot": "bg-grape"
+  },
+  {
+    "name": "Cocina en familia",
+    "tagline": "Aprender haciendo",
+    "description": "Recetas sencillas para practicar seguir instrucciones, medir, contar y tomar peque├▒as decisiones juntos.",
+    "range": "Actividades 121 a 150",
+    "examples": [
+      "Pizza casera individual",
+      "Brochetas de fruta",
+      "Galletas decoradas"
+    ],
+    "image": "/__l5e/assets-v1/c4d58528-66ba-426f-b234-699577458124/mes-05-tematica.jpg",
+    "dot": "bg-primary"
+  },
+  {
+    "name": "Aire libre y naturaleza",
+    "tagline": "Explorar el mundo que los rodea",
+    "description": "Observar plantas, insectos y nubes para estimular la curiosidad, el movimiento y el respeto por la naturaleza.",
+    "range": "Actividades 151 a 180",
+    "examples": [
+      "B├║squeda de insectos con lupa",
+      "Siembra de una semilla",
+      "Picnic en el parque"
+    ],
+    "image": "/__l5e/assets-v1/40ac1ca2-9196-4a5e-94e9-8823c4e3939a/mes-06-tematica.jpg",
+    "dot": "bg-leaf"
+  },
+  {
+    "name": "Juegos de mesa e ingenio",
+    "tagline": "Pensar, resolver y compartir",
+    "description": "Juegos de l├│gica, memoria y estrategia para aprender a esperar turnos, aceptar resultados y razonar.",
+    "range": "Actividades 181 a 210",
+    "examples": [
+      "Bingo casero",
+      "Batalla naval dibujada",
+      "Torre de bloques m├ís alta"
+    ],
+    "image": "/__l5e/assets-v1/ed55c340-796d-47e6-9ee3-4073cf639bd5/mes-07-tematica.jpg",
+    "dot": "bg-teal"
+  },
+  {
+    "name": "Lectura, palabras y cuentos",
+    "tagline": "Imaginar mundos a trav├®s de las palabras",
+    "description": "Cuentos, rimas y dramatizaciones que ampl├¡an el vocabulario, la comprensi├│n y la expresi├│n oral.",
+    "range": "Actividades 211 a 246",
+    "examples": [
+      "Diario ilustrado",
+      "Cuento encadenado en familia",
+      "Teatro de sombras"
+    ],
+    "image": "/__l5e/assets-v1/487350a4-a1c0-4371-aab5-d055892e95cd/mes-08-tematica.jpg",
+    "dot": "bg-grape"
+  },
+  {
+    "name": "Construcci├│n y bloques",
+    "tagline": "Construir, planificar y resolver",
+    "description": "Torres, castillos y ciudades que trabajan la percepci├│n espacial, la planificaci├│n y la paciencia.",
+    "range": "Actividades 247 a 276",
+    "examples": [
+      "Castillo medieval con torres",
+      "Fuerte con cojines y mantas",
+      "Torre que resista un temblor"
+    ],
+    "image": "/__l5e/assets-v1/64a30923-e0ae-4156-a096-cb16cd906bed/mes-09-tematica.jpg",
+    "dot": "bg-sunshine"
+  },
+  {
+    "name": "M├║sica y ritmo",
+    "tagline": "Escuchar, moverse y expresarse",
+    "description": "Instrumentos caseros, canciones y coreograf├¡as para la memoria auditiva, la atenci├│n y la expresi├│n.",
+    "range": "Actividades 277 a 306",
+    "examples": [
+      "Maracas caseras",
+      "Tambor con una lata",
+      "Karaoke familiar"
+    ],
+    "image": "/__l5e/assets-v1/be909fc8-01bf-437b-8525-37ad3d0cf07a/mes-10-tematica.jpg",
+    "dot": "bg-primary"
+  },
+  {
+    "name": "Retos sensoriales y motricidad",
+    "tagline": "Descubrir utilizando los sentidos",
+    "description": "Texturas, sonidos y materiales para estimular los sentidos, la motricidad fina y el control corporal.",
+    "range": "Actividades 307 a 336",
+    "examples": [
+      "Masa casera para amasar",
+      "Slime sensorial",
+      "Camino descalzo de texturas"
+    ],
+    "image": "/__l5e/assets-v1/c6ffd7d3-d0d2-4579-91cc-50a36167e8d0/mes-11-tematica.jpg",
+    "dot": "bg-tangerine"
+  },
+  {
+    "name": "Fin de a├▒o y repaso",
+    "tagline": "Compartir, agradecer y recordar",
+    "description": "Celebraciones, recuerdos y gratitud para cerrar el a├▒o en familia y repasar lo aprendido.",
+    "range": "Actividades 337 a 365",
+    "examples": [
+      "Adornos navide├▒os reciclados",
+      "Galletas de jengibre",
+      "C├ípsula del tiempo"
+    ],
+    "image": "/__l5e/assets-v1/45eb987b-938c-4c35-af33-848c97cab373/mes-12-tematica.jpg",
+    "dot": "bg-leaf"
+  }
+]
